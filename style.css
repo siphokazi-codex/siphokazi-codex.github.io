@@ -1,1 +1,281 @@
-My first web page styling
+
+.intro  {
+	align-self: center;
+	justify-content: center;
+}
+
+.name img{
+  width: 40%;
+  height: 60%;
+  border-radius: 10%;
+  align-content: center;
+}
+
+.name {
+align-items: center;
+text-align: center;
+color: #a81d05;
+font-style: italic;
+}
+
+.name h1{
+text-shadow: 0px 2px 4px rgba(34,62,66,.75);
+font-size: 50px;
+line-height: 50px;
+}
+
+.name h2{
+text-shadow: 0px 2px 4px rgba(34,62,66,.75);
+font-size: 45px;
+line-height: 0.5px;
+}
+
+.city {
+border-style: inset;
+border-color: #821202;
+border-radius: 10px;
+height: 410px;
+}
+
+.city h3{
+font-size: 30px;
+line-height: 0.5px;
+color: #af3c2b;
+}
+
+#durban h4, p{
+color: #6d2b21;
+}
+
+#city img {
+width: 100%;
+height: 100%;
+border-radius: 2%;
+}
+
+#durban h4 {
+font-size: 20px;
+text-decoration: underline;
+}
+
+#city {
+width: 40%;
+height: 350px;
+float: left;
+}
+
+#durban {
+width: 57%;
+height: 90%;
+float: right;
+font-size: 18px;
+}
+
+.foreign {
+height: 380px;
+width: 100%;
+}
+
+.foreign h5 {
+font-size: 30px;
+color: #af3c2b;
+line-height: 0.3px;
+}
+
+.foreign ul {
+color: #6d2b21;
+font-size: 18px;
+width: 70%;
+}
+
+#foreign {
+height: 2%;
+}
+
+.foreign table {
+ width: 55%;
+ height: 35%;
+ border-radius: 10px;
+ align-items: center;
+ align-self: center;
+ border-color: #280500;
+}
+
+thead th {
+background: #6d2b21;
+color: #bfa5a2;
+font-size: 20px;
+}
+
+td {
+font-size: 17px;
+color: #6d2b21;
+}
+
+tr {
+line-height: 20px;
+}
+
+.clock {
+ border-top: 0px;
+ border-left: 0px;
+ border-right: 0px;
+ border-bottom: 1px;
+ height: 300px;
+}
+
+.clock p{
+font-size: 30px;
+color: #af3c2b;
+line-height: 0.5px;
+font-weight: bold;
+}
+
+.historic {
+	margin-top: 3px;
+	border-style: inset;
+  border-color: #821202;
+  border-radius: 10px;
+  height: 1000px;
+}
+
+.historic p{
+  font-size: 30px;
+  color: #af3c2b;
+  line-height: 0.3px;
+  font-weight: bold;
+}
+
+#historic {
+
+}
+
+.clock img {
+  margin-top: 15px;
+  margin-left: 10px;
+  width: 55%;
+  height: 90%;
+  border-radius: 1%;
+}
+
+#tower {
+float: right;
+width: 60%;
+}
+
+#tower h6 {
+color: #6d2b21;
+font-size: 20px;
+text-decoration: underline;
+}
+
+#tower ul {
+color: #6d2b21;
+font-size: 20px;
+}
+
+.portsWood {
+  border-radius: 2%;
+ height: 300px;
+}
+
+.portsWood p{
+font-size: 30px;
+color: #af3c2b;
+line-height: 0.5px;
+font-weight: bold;
+}
+
+.portsWood img {
+ margin-top: 15px;
+ margin-left: 10px;
+ width: 38%;
+ height: 90%;
+ border-radius: 15px;
+}
+
+#ridge {
+float: right;
+width: 58%;
+}
+
+#ridge h6 {
+color: #6d2b21;
+font-size: 20px;
+text-decoration: underline;
+}
+
+#ridge ul {
+color: #6d2b21;
+font-size: 20px;
+}
+
+.clock {
+ height: 330px;
+}
+
+.clock p{
+font-size: 30px;
+color: #af3c2b;
+line-height: 0.5px;
+font-weight: bold;
+}
+
+.clock img {
+ width: 38%;
+ height: 85%;
+ border-radius: 5%;
+ margin-right: 15px;
+}
+
+#tower {
+float: right;
+width: 60%;
+}
+
+#tower h6 {
+color: #6d2b21;
+font-size: 20px;
+text-decoration: underline;
+}
+
+#tower ul {
+color: #6d2b21;
+font-size: 20px;
+}
+
+.station {
+  border-radius: 2%;
+ height: 300px;
+}
+
+.station p{
+font-size: 30px;
+color: #af3c2b;
+line-height: 0.5px;
+font-weight: bold;
+}
+
+.station img {
+ margin-top: 15px;
+ margin-left: 10px;
+ width: 38%;
+ height: 90%;
+ border-radius: 10px;
+}
+
+#power {
+float: right;
+width: 58%;
+}
+
+#power h6 {
+color: #6d2b21;
+font-size: 20px;
+text-decoration: underline;
+}
+
+#power ul {
+color: #6d2b21;
+font-size: 20px;
+}
